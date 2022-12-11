@@ -29,6 +29,7 @@
     https://github.com/garrettj94/
   
     ##email:
-    https://github.com/garrettj94/, garrettjackson43@gmail.com
+    garrettjackson43@gmail.com
 
     ##heroku: 
+    https://secure-gorge-60354.herokuapp.com/
